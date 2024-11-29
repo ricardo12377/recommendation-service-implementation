@@ -1,3 +1,6 @@
+# Observações
+- Foram adicionados mais dois testes unitários, para verificar se o programa não quebrava caso o serviço receba filtros vazios ou filtros com tipos de dados diferentes.
+  
 # Teste Técnico - Recomendador de Produtos RD Station
 
 Este projeto é parte do teste técnico para a vaga de desenvolvedor front-end na RD Station. O objetivo principal é implementar a lógica de recomendação de produtos RD Station em uma aplicação web existente.
